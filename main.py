@@ -1,4 +1,4 @@
 import networkx as nx
 
 class AStar:
-    pass
+    print ("adios")
