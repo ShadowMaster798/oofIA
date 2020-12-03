@@ -4,7 +4,7 @@ class Vertex:
         self.coordinates = coordinates
 
     def aerial_distance(self, destination_coords: list):
-        #TODO: Implementar cálculos
+        """TODO Implementar cálculos"""
 
 class Edge:
     def __init__(self, estimated_time):
