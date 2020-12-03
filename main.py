@@ -1,3 +1,15 @@
 import networkx as nx
 
-class AStar:
+def build_graph():
+    """
+    Generates graph
+    """
+    pass
+
+
+def a_star():
+    """
+    Executes algorithm
+    """
+    pass
+
