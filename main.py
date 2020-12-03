@@ -12,3 +12,6 @@ class AStar:
 
 
     print ("gonsas9elpelotudo")
+
+    print("Jorge")
+    print ("santiago_lamela")
