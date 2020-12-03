@@ -10,7 +10,7 @@ class AStar:
 
 
 
-
+    print("yago eres un cerdo")
     print ("gonsas9elpelotudo")
 
     print("Jorge")
